@@ -1,4 +1,3 @@
-import SwiftUI
 
 public class CultureManifest: Codable {
     public let strings: [String: CultureString]
